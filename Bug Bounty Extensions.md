@@ -1,10 +1,10 @@
-# 🐛 Bug Bounty Extensions 🕵️‍♂️
+#  Bug Bounty Extensions 
 
 Explore this curated collection of essential browser extensions that will supercharge your web hacking and Bug Bounty Hunting workflow. Use them alongside Burp Suite, devtools, and your own scripts to streamline recon, testing, and reporting. 
 
 Add these extensions to your browser and unlock new angles to map attack surface, manipulate traffic, and speed up your manual checks.
 
-Happy hacking! 🚀🔐
+Happy hacking! 🔐
 
 ---
 
@@ -15,7 +15,7 @@ Fork this repository, add your favorite extensions with a short bug‑bounty‑f
 
 ---
 
-## 🌐 Chrome Extensions
+##  Chrome Extensions
 
 1. **[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)**  
    - Identify frameworks, CMS, servers, WAFs, analytics, and other technologies to shape your recon strategy and choose relevant attack vectors.
@@ -63,7 +63,7 @@ Fork this repository, add your favorite extensions with a short bug‑bounty‑f
 
 ---
 
-## 🦊 Firefox Add-ons
+##  Firefox Add-ons
 
 1. **[Easy XSS](https://addons.mozilla.org/en-US/firefox/addon/easy-xss/)**  
    - Quickly probe for reflected and stored XSS with streamlined payload injection and repetition.
