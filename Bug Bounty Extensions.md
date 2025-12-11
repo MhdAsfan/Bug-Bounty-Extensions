@@ -1,4 +1,4 @@
-```markdown
+``markdown
 # 🐛 Bug Bounty Extensions 🕵️‍♂️
 
 Explore this curated collection of essential browser extensions that will supercharge your web hacking and Bug Bounty Hunting workflow. Use them alongside Burp Suite, devtools, and your own scripts to streamline recon, testing, and reporting. [web:1][web:7][web:16]
